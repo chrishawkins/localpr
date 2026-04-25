@@ -13,7 +13,8 @@
       "Bash(sl commit -m \"Add initial app.js with hello function\")",
       "Bash(node:*)",
       "Bash(curl:*)",
-      "Bash(chmod +x:*)"
+      "Bash(chmod +x:*)",
+      "Bash(sl status:*)"
     ]
   }
 }
