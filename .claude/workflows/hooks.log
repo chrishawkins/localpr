@@ -1,0 +1,10 @@
+[2026-04-13T08:58:17-04:00] SessionStart: reason=startup session=11c08aab-acf6-4079-ac11-2fadaa2e99a9
+[2026-04-13T08:58:17-04:00] No active workflows - no context to inject
+[2026-04-25T15:38:23-04:00] SubagentStop triggered: session=11c08aab-acf6-4079-ac11-2fadaa2e99a9
+[2026-04-25T15:38:23-04:00] No assistant output in transcript - allowing stop
+[2026-04-25T17:27:43-04:00] Stop hook triggered: session=11c08aab-acf6-4079-ac11-2fadaa2e99a9
+[2026-04-25T17:27:43-04:00] No active workflow for session 11c08aab-acf6-4079-ac11-2fadaa2e99a9 - allowing stop
+[2026-04-25T17:27:54-04:00] Stop hook triggered: session=11c08aab-acf6-4079-ac11-2fadaa2e99a9
+[2026-04-25T17:27:54-04:00] No active workflow for session 11c08aab-acf6-4079-ac11-2fadaa2e99a9 - allowing stop
+[2026-04-25T17:30:53-04:00] Stop hook triggered: session=11c08aab-acf6-4079-ac11-2fadaa2e99a9
+[2026-04-25T17:30:53-04:00] No active workflow for session 11c08aab-acf6-4079-ac11-2fadaa2e99a9 - allowing stop

@@ -1,0 +1,26 @@
+{
+  "name": "localpr",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "localpr": "./bin/localpr.js"
+  },
+  "scripts": {
+    "dev": "concurrently -k \"node server/index.js ${REPO_PATH:-.}\" \"vite\"",
+    "build": "vite build",
+    "start": "vite build && node server/index.js",
+    "server": "node server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.0"
+  }
+}

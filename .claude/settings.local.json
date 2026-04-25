@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sl version:*)",
+      "Bash(sl help:*)",
+      "Bash(sl log:*)",
+      "WebSearch",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Read(//private/tmp/localpr-test-repo/**)",
+      "Bash(echo \"function hello\\(\\) { return ''world''; }\")",
+      "Bash(sl add app.js)",
+      "Bash(sl commit -m \"Add initial app.js with hello function\")",
+      "Bash(node:*)",
+      "Bash(curl:*)",
+      "Bash(chmod +x:*)"
+    ]
+  }
+}
